@@ -1,7 +1,7 @@
 # <p align="center">👋 Welcome to My GitHub Profile!</p>
 
 <p align="center">
-  <img src="github_profile_banner.png" alt="Anuj Mishra Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/anujmishra1823-boop/anujmishra1823-boop/main/github_profile_banner.png" alt="Anuj Mishra Banner" width="100%">
 </p>
 
 <h2 align="center">Anuj Mishra 🚀</h2>
@@ -35,8 +35,23 @@ I am a passionate software engineer studying at **Sant Longowal Institute of Eng
 - **Languages**: 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- **Frontend & Backend**:
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+- **Agentic AI & LLMs**:
+  ![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F61?style=flat-square)
+  ![RAG](https://img.shields.io/badge/RAG_(Retrieval--Augmented_Generation)-4A90E2?style=flat-square)
+  ![LLMs](https://img.shields.io/badge/LLMs-50E3C2?style=flat-square)
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square)
+  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=read-the-docs&logoColor=white)
+  ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
+  ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+  ![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-FF9800?style=flat-square)
+  ![Cursor](https://img.shields.io/badge/Cursor-00E5FF?style=flat-square&logo=cursor&logoColor=black)
 - **Core Computer Science**: 
   ![Data Structures](https://img.shields.io/badge/Data_Structures_%26_Algorithms-3178C6?style=flat-square)
   ![OOP](https://img.shields.io/badge/Object--Oriented_Programming-4F5D95?style=flat-square)
