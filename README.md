@@ -1,7 +1,7 @@
 # <p align="center">👋 Welcome to My GitHub Profile!</p>
 
 <p align="center">
-  <img src="./github_profile_banner.png" alt="Anuj Mishra Banner" width="100%">
+  <img src="github_profile_banner.png" alt="Anuj Mishra Banner" width="100%">
 </p>
 
 <h2 align="center">Anuj Mishra 🚀</h2>
@@ -13,6 +13,8 @@
   <a href="https://www.linkedin.com/in/anuj-mishra-836a64379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:anujmishra1823@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://leetcode.com/Anujcodesjava"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.hackerrank.com/anujmishra1823"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://instagram.com/_obvious_anujan"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
@@ -51,11 +53,12 @@ I am a passionate software engineer studying at **Sant Longowal Institute of Eng
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Anujcodesjava?theme=unicorn&font=League%20Spartan&ext=activity" alt="Anuj's LeetCode Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishrarishi1135-a11y&show_icons=true&theme=radical&hide_border=true" alt="Anuj's GitHub Stats" width="48%">
+  <img src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=anujmishra1823" alt="Anuj's HackerRank Stats" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishrarishi1135-a11y&theme=radical&hide_border=true" alt="GitHub Streak" width="97%">
+  <img src="https://github-readme-stats.vercel.app/api?username=anujmishra1823-boop&show_icons=true&theme=radical&hide_border=true" alt="Anuj's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujmishra1823-boop&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
 ---
@@ -66,3 +69,5 @@ I'm always open to discussing new projects, collaborating on open-source, or jus
 
 - 💼 **LinkedIn**: [Anuj Mishra](https://www.linkedin.com/in/anuj-mishra-836a64379/)
 - 📧 **Gmail**: [anujmishra1823@gmail.com](mailto:anujmishra1823@gmail.com)
+- 🏆 **HackerRank**: [anujmishra1823](https://www.hackerrank.com/anujmishra1823)
+- 📸 **Instagram**: [_obvious_anujan](https://instagram.com/_obvious_anujan)
