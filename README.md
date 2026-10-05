@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuj-mishra-836a64379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:anujmishra1823@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:mishrarishi1135@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://leetcode.com/Anujcodesjava"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
   <a href="https://www.hackerrank.com/anujmishra1823"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
   <a href="https://instagram.com/_obvious_anujan"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -25,7 +25,7 @@ I am a passionate software engineer studying at **Sant Longowal Institute of Eng
 
 - 🎓 **Education**: Sant Longowal Institute of Engineering and Technology (SLIET)
 - 📍 **Location**: Kanpur, Uttar Pradesh, India
-- ✉️ **Contact**: [anujmishra1823@gmail.com](mailto:anujmishra1823@gmail.com)
+- ✉️ **Contact**: [mishrarishi1135@gmail.com](mailto:mishrarishi1135@gmail.com)
 - 🧠 **Focus**: Data Structures & Algorithms (DSA), Backend Development, System Design, and Object-Oriented Programming (OOP)
 
 ---
@@ -84,6 +84,6 @@ I'm always open to discussing new projects, collaborating on open-source, or jus
 
 - 💼 **LinkedIn**: [Anuj Mishra](https://www.linkedin.com/in/anuj-mishra-836a64379/)
 - 🐙 **GitHub**: [mishrarishi1135-a11y](https://github.com/mishrarishi1135-a11y)
-- 📧 **Gmail**: [anujmishra1823@gmail.com](mailto:anujmishra1823@gmail.com)
+- 📧 **Gmail**: [mishrarishi1135@gmail.com](mailto:mishrarishi1135@gmail.com)
 - 🏆 **HackerRank**: [anujmishra1823](https://www.hackerrank.com/anujmishra1823)
 - 📸 **Instagram**: [_obvious_anujan](https://instagram.com/_obvious_anujan)
