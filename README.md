@@ -71,9 +71,6 @@ I am a passionate software engineer studying at **Sant Longowal Institute of Eng
   <img src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=anujmishra1823" alt="Anuj's HackerRank Stats" width="48%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishrarishi1135-a11y&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
 
 ---
 
