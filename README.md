@@ -72,8 +72,7 @@ I am a passionate software engineer studying at **Sant Longowal Institute of Eng
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishrarishi1135-a11y&show_icons=true&theme=radical&hide_border=true" alt="Anuj's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishrarishi1135-a11y&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishrarishi1135-a11y&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
