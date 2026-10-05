@@ -1,7 +1,7 @@
 # <p align="center">👋 Welcome to My GitHub Profile!</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anujmishra1823-boop/anujmishra1823-boop/main/github_profile_banner.png" alt="Anuj Mishra Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/mishrarishi1135-a11y/mishrarishi1135-a11y/main/github_profile_banner.png" alt="Anuj Mishra Banner" width="100%">
 </p>
 
 <h2 align="center">Anuj Mishra 🚀</h2>
@@ -72,8 +72,8 @@ I am a passionate software engineer studying at **Sant Longowal Institute of Eng
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujmishra1823-boop&show_icons=true&theme=radical&hide_border=true" alt="Anuj's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujmishra1823-boop&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=mishrarishi1135-a11y&show_icons=true&theme=radical&hide_border=true" alt="Anuj's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishrarishi1135-a11y&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
 ---
@@ -83,6 +83,7 @@ I am a passionate software engineer studying at **Sant Longowal Institute of Eng
 I'm always open to discussing new projects, collaborating on open-source, or just chatting about technology and AI!
 
 - 💼 **LinkedIn**: [Anuj Mishra](https://www.linkedin.com/in/anuj-mishra-836a64379/)
+- 🐙 **GitHub**: [mishrarishi1135-a11y](https://github.com/mishrarishi1135-a11y)
 - 📧 **Gmail**: [anujmishra1823@gmail.com](mailto:anujmishra1823@gmail.com)
 - 🏆 **HackerRank**: [anujmishra1823](https://www.hackerrank.com/anujmishra1823)
 - 📸 **Instagram**: [_obvious_anujan](https://instagram.com/_obvious_anujan)
